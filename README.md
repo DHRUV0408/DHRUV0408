@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DHRUV RATHEE
 -    DOB = 04/08/2004
 - 👀 I like traveling 
-- 🌱 I’m currently learning about Python Developer
+- 🌱 I’m currently learning about Data Analytics
 -    I am persuing BCA
 
 <!---
